@@ -1,5 +1,4 @@
 # Why Context Matters: Exploring How Musical Context Impacts User Behavior, Mood and Musical Preferences
 
-Work in progress..
-
-Code and Notebooks will be uploaded soon!
+🚀 Coming Soon!
+This repository will soon be updated with code and notebooks. Stay tuned! 📌
